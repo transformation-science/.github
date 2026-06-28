@@ -1,3 +1,5 @@
+**Transformation Science** is an open research organization dedicated to the scientific study of morphological transformations. It serves as a collaborative space for contributors interested in the biological, computational, and engineering principles underlying large-scale anatomical change, drawing on morphogenesis, metamorphosis, developmental biology, biomechanics, synthetic biology, and related fields. The project supports work across modeling, theory, and simulation, with contributions guided by scientific rigor, reproducibility, and evidence-based reasoning grounded in established scientific knowledge.
+
 ## Repository Guidelines
 
 - Keep discussions focused on scientific research on the science of morphological transformations.
